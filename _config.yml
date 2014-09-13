@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: Hexo is Sexo
+subtitle: The Example Hexo Workshpo
+description: This workshop was made for educational reasons and stuff
 author: John Doe
-email:
+email: harlinjesse@gmail.com
 language:
 
 # URL
@@ -84,5 +84,6 @@ exclude_generator:
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type:
+  type: github
+  repository: git@github.com:techlahoma/okcjs-website.git
+  branch: gh-pages
