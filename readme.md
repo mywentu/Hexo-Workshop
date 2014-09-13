@@ -38,7 +38,7 @@
 
 ### 4. Deployment
   * configuration
-  * Gh-Pages
+  * [Gh-Pages](https://help.github.com/articles/user-organization-and-project-pages)
 
 
 ### 5. Customize!
