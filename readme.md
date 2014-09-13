@@ -1,13 +1,11 @@
-#Hexo-Workshop
-=============
+
 
 ![Hexo-Workshop](http://i.imgur.com/4bFr8En.png)
 
+#Hexo-Workshop
 
-Notes for upcoming Hexo workshop
 
 ##Workshop Outline
----------------
 1. Installing Hexo
 2. Create initial Hexo blog
 3. Host blog on localhost
@@ -15,7 +13,8 @@ Notes for upcoming Hexo workshop
 5. Customize
 6. Services
 
-
+---
+---
 
 ### 1. Installing Hexo
   * install-npm
