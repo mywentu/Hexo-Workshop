@@ -34,7 +34,7 @@ Notes for upcoming Hexo workshop
   * run locally
   * generation/cleaning
   * run statically
-  * Css Preprocessors
+  * CSS Preprocessors
   * Templating
 
 ### 4. Deployment
