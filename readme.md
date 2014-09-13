@@ -45,11 +45,21 @@ Notes for upcoming Hexo workshop
 
 
 ###Customize!
-  * Lets go theme shopping!
-
+  * themes
+  * plugins
+  * helpers
+  * scaffolding
+  * Services
+  
+### Goodies!
+  * disqus/comments
+  * google analytics
+  
+------
+------
+  
 
 ####Create your own Hexo theme
---------------------------
 https://www.npmjs.org/package/generator-hexo-theme
 
 ####Differences between Tag Plugins and Helpers
