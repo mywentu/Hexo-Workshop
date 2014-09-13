@@ -17,12 +17,12 @@ Notes for upcoming Hexo workshop
 
 
 
-###Instaling Hexo
+### 1. Instaling Hexo
   * install-npm
   * install brackets or some editor
 
 
-### Simple Blog Creation
+### 2. Simple Blog Creation
   * make a post
   * make a page
   * update the menu
@@ -30,26 +30,26 @@ Notes for upcoming Hexo workshop
   * categories
 
 
-### Running and Hosting
+### 3. Running and Hosting
   * run locally
   * generation/cleaning
   * run statically
   * Css Preprocessors
   * Templating
 
-### Deployment
+### 4. Deployment
   * configuration
   * Gh-Pages
 
 
-###Customize!
+### 5. Customize!
   * themes
   * plugins
   * helpers
   * scaffolding
   * Services
   
-### Utilizing Services
+### 6. Utilizing Services
   * disqus/comments
   * google analytics
   * Twitter
