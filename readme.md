@@ -17,7 +17,7 @@ Notes for upcoming Hexo workshop
 
 
 
-### 1. Instaling Hexo
+### 1. Installing Hexo
   * install-npm
   * install brackets or some editor
 
