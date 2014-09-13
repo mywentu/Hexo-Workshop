@@ -1,6 +1,9 @@
 Hexo-Workshop
 =============
 
+![Hexo-Workshop](http://i.imgur.com/9FBMR4O.png)
+
+
 Notes for upcoming Hexo workshop
 
 Create your own Hexo theme
