@@ -13,9 +13,7 @@ Notes for upcoming Hexo workshop
 3. Host blog on localhost
 4. Deploy blog
 5. Customize
-  1. Select/Make a theme
-  2. Easy Goodies 
-  3. Write a plugin
+6. Services
 
 
 
@@ -51,14 +49,14 @@ Notes for upcoming Hexo workshop
   * scaffolding
   * Services
   
-### Goodies!
+### Utilizing Services
   * disqus/comments
   * google analytics
+  * Twitter
   
 ------
 ------
   
-
 ####Create your own Hexo theme
 https://www.npmjs.org/package/generator-hexo-theme
 
