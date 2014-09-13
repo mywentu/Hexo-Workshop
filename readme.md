@@ -1,7 +1,7 @@
 #Hexo-Workshop
 =============
 
-![Hexo-Workshop](http://i.imgur.com/9FBMR4O.png)
+![Hexo-Workshop](http://i.imgur.com/4bFr8En.png)
 
 
 Notes for upcoming Hexo workshop
